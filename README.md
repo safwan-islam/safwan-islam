@@ -1,42 +1,129 @@
-# Hey, I'm Safwan 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Safwan-Ahmed+Islam;CS+Student+%40+Concordia+University;Full-Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
 
-**CS Student @ Concordia University | Software Developer | Futures Trader**
-
-I build full-stack apps, break things, fix them, and ship. Currently finishing my CS degree while working as a Passenger Service Agent at Air Transat.
-
----
-
-### 🛠 What I Work With
-
-**Languages:** Java · Python · C# · TypeScript · JavaScript · C++ · Kotlin · Bash  
-**Frontend:** React · Angular · Django Templates · Bootstrap · SwiftUI  
-**Backend:** Node.js · NestJS · Express · Django · Flask · ASP.NET Core MVC · Socket.io  
-**Databases:** PostgreSQL · MongoDB · Oracle SQL · SQL Server · Firebase · SQLite  
-**Tools:** Docker · Git · GitLab · REST APIs · WebSockets · JDBC · ADO.NET · Entity Framework Core
+<p align="center">
+  <a href="https://linkedin.com/in/safwan-islam"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:safwanahmed.islam@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>&nbsp;
+  <a href="https://github.com/safwan-islam"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+</p>
 
 ---
 
-### 🚀 Projects
+### 🧑‍💻 About Me
 
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [**AnimalCare**](https://github.com/safwan-islam/Animal-Care) | C#, ASP.NET Core MVC 8, EF Core, SQL Server | Veterinary clinic system with role-based auth (Admin, Receptionist, Vet), stored procedures, triggers, and full CRUD with FK constraint handling |
-| **Fortis Bank** | Java, JDBC, Oracle SQL, Swing | 3-layer banking system with DAO/Repository patterns, supporting deposits, withdrawals, transfers & transaction history |
-| **Task Manager** | Python, Django, Flask, MongoDB | Full-stack task app with JWT auth, 5+ REST endpoints, and role-based permissions |
-| **TrainTicket** | SwiftUI, Firebase, MVVM | iOS train booking app with QR codes, push notifications, admin dashboard & 3-step purchase flow |
+- 🎓 **CS Student** at **Concordia University** (transferring from LaSalle College)
+- ✈️ Currently working as a **Passenger Service Agent** at **Air Transat**
+- 💻 I love building **full-stack apps** — from backend APIs to polished frontends
+- 📈 Also into **algorithmic trading** & futures on the side
+- 🌍 Based in **Montreal, QC**
+a
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cs,cpp,typescript,javascript,kotlin,bash&perline=8" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,nestjs,express,django,flask,dotnet&perline=8" /><br/>
+  <img src="https://skillicons.dev/icons?i=swift,firebase,docker,git,github,gitlab,postgresql,mongodb&perline=8" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,html,css,bootstrap,tailwind,powershell,vscode&perline=8" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">AnimalCare 🐾</h3>
+      <p align="center">
+        <a href="https://github.com/safwan-islam/Animal-Care">
+          <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Veterinary clinic management system with role-based auth (Admin, Receptionist, Vet), stored procedures, triggers & full CRUD</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+        <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Fortis Bank 🏦</h3>
+      <p align="center">
+        <a href="https://github.com/safwan-islam">
+          <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">3-layer banking system with DAO/Repository patterns — deposits, withdrawals, transfers & transaction history</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
+        <img src="https://img.shields.io/badge/Swing-007396?style=flat-square&logo=java&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Task Manager 📋</h3>
+      <p align="center">
+        <a href="https://github.com/safwan-islam">
+          <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Full-stack task management app with JWT auth, REST API endpoints & role-based permissions</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">TrainTicket 🚆</h3>
+      <p align="center">
+        <a href="https://github.com/safwan-islam">
+          <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">iOS train booking app with QR codes, push notifications, admin dashboard & 3-step purchase flow</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/MVVM-6C757D?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safwan-islam&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safwan-islam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=safwan-islam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=safwan-islam&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safwan-islam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=safwan-islam&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=safwan-islam&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/safwan-islam)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safwanahmed.islam@gmail.com)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" />
+</p>
