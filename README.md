@@ -23,25 +23,48 @@
 
 ### 🛠 Tech Stack
 
-<h4 align="center">Languages</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cs,cpp,typescript,javascript,kotlin,bash" />
-</p>
-
-<h4 align="center">Frameworks & Libraries</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,nestjs,express,django,flask,dotnet" />
-</p>
-
-<h4 align="center">Databases & Cloud</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite,firebase" />
-</p>
-
-<h4 align="center">Tools & DevOps</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode,powershell" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br><sub>Java</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br><sub>Python</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /><br><sub>C#</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br><sub>C++</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" /><br><sub>TypeScript</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" /><br><sub>JavaScript</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" /><br><sub>Kotlin</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /><br><sub>Bash</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br><sub>React</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" /><br><sub>Angular</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br><sub>Node.js</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" /><br><sub>NestJS</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br><sub>Express</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" /><br><sub>Django</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br><sub>Flask</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" /><br><sub>.NET</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift" /><br><sub>Swift</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br><sub>Firebase</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br><sub>Docker</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br><sub>Git</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br><sub>GitHub</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" /><br><sub>GitLab</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" /><br><sub>PostgreSQL</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br><sub>MongoDB</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br><sub>MySQL</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" /><br><sub>SQLite</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br><sub>HTML</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br><sub>CSS</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br><sub>Bootstrap</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br><sub>Tailwind</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" /><br><sub>PowerShell</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br><sub>VS Code</sub></td>
+  </tr>
+</table>
 
 ---
 
@@ -56,7 +79,7 @@
           <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center">Veterinary clinic web app with custom role-based auth (Admin, Receptionist, Vet), stored procedures, triggers & views for automated workflows, and full CRUD with FK constraint handling</p>
+      <p align="center">Full-stack veterinary web app supporting DB-First and Code-First EF Core workflows. Stored procedures, triggers & views automate medical history and appointment notifications. Custom session-based role auth (Admin, Receptionist, Vet) with full CRUD and FK constraint handling.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
         <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
@@ -71,7 +94,7 @@
           <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center">3-layer banking system (Business/Data/UI) with DAO & Repository patterns over Oracle SQL, supporting deposits, withdrawals, transfers & transaction history through a Swing GUI</p>
+      <p align="center">3-layer banking system (Business/Data/UI) supporting deposits, withdrawals, transfers & transaction history. DAO and Repository patterns over Oracle SQL decouple persistence across 5+ entity types. Swing GUI with centralized JDBC query architecture.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white" />
@@ -88,7 +111,7 @@
           <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center">Task management app with role-based auth, JWT-secured REST API endpoints via Flask, and a responsive Django + Bootstrap frontend</p>
+      <p align="center">Full-stack task management app with role-based auth supporting multiple permission levels. 5+ REST API endpoints via Flask with JWT security handling full CRUD. Responsive frontend with Django templates and Bootstrap separating API and rendering layers.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
@@ -103,7 +126,7 @@
           <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center">Desktop system for patient records & appointment scheduling with a normalized schema and secure ADO.NET parameterized queries</p>
+      <p align="center">Desktop system managing patient records and appointment scheduling for a simulated clinic. Normalized relational schema with secure ADO.NET connectivity using parameterized queries to prevent SQL injection.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
         <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
