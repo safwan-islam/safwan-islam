@@ -90,7 +90,7 @@
     <td width="50%">
       <h3 align="center">Fortis Bank 🏦</h3>
       <p align="center">
-        <a href="https://github.com/Fortis-Bank">
+        <a href="https://github.com/safwan-islam/Fortis-Bank">
           <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
@@ -107,7 +107,7 @@
     <td width="50%">
       <h3 align="center">Task Manager 📋</h3>
       <p align="center">
-        <a href="https://github.com/Task-Manager">
+        <a href="https://github.com/safwan-islam/Task-Manager">
           <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
@@ -122,7 +122,7 @@
     <td width="50%">
       <h3 align="center">Clinic Management 🏥</h3>
       <p align="center">
-        <a href="https://github.com/Clinic-Management">
+        <a href="https://github.com/safwan-islam/Clinic-Management">
           <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
