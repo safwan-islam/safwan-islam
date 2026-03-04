@@ -15,8 +15,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 **CS Student** at **Concordia University** (transferring from LaSalle College)
-- ✈️ Currently working as a **Passenger Service Agent** at **Air Transat**
-- 💻 I love building **full-stack apps** — from backend APIs to polished frontends
+- 💻 I love building **full-stack apps**, from backend APIs to polished frontends
 - 📈 Also into **algorithmic trading** & futures on the side
 - 🌍 Based in **Montreal, QC**
 
@@ -59,7 +58,7 @@
           <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center">3-layer banking system with DAO/Repository patterns — deposits, withdrawals, transfers & transaction history</p>
+      <p align="center">3-layer banking system with DAO/Repository patterns supporting deposits, withdrawals, transfers & transaction history</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white" />
