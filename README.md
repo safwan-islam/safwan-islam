@@ -79,7 +79,7 @@
           <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center">Veterinary clinic management system with role-based auth (Admin, Receptionist, Vet), stored procedures, triggers & full CRUD</p>
+      <p align="center">Full-stack veterinary web app supporting DB-First and Code-First EF Core workflows. Stored procedures, triggers & views automate medical history and appointment notifications. Custom session-based role auth (Admin, Receptionist, Vet) with full CRUD and FK constraint handling.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
         <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
@@ -94,7 +94,7 @@
           <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center">3-layer banking system with DAO/Repository patterns supporting deposits, withdrawals, transfers & transaction history</p>
+      <p align="center">3-layer banking system (Business/Data/UI) supporting deposits, withdrawals, transfers & transaction history. DAO and Repository patterns over Oracle SQL decouple persistence across 5+ entity types. Swing GUI with centralized JDBC query architecture.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white" />
@@ -111,7 +111,7 @@
           <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center">Full-stack task management app with JWT auth, REST API endpoints & role-based permissions</p>
+      <p align="center">Full-stack task management app with role-based auth supporting multiple permission levels. 5+ REST API endpoints via Flask with JWT security handling full CRUD. Responsive frontend with Django templates and Bootstrap separating API and rendering layers.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
@@ -120,17 +120,17 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">TrainTicket 🚆</h3>
+      <h3 align="center">Clinic Management 🏥</h3>
       <p align="center">
         <a href="https://github.com/safwan-islam">
           <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center">iOS train booking app with QR codes, push notifications, admin dashboard & 3-step purchase flow</p>
+      <p align="center">Desktop system managing patient records and appointment scheduling for a simulated clinic. Normalized relational schema with secure ADO.NET connectivity using parameterized queries to prevent SQL injection.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/MVVM-6C757D?style=flat-square" />
+        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+        <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
       </p>
     </td>
   </tr>
