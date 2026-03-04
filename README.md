@@ -19,7 +19,7 @@
 - 💻 I love building **full-stack apps** — from backend APIs to polished frontends
 - 📈 Also into **algorithmic trading** & futures on the side
 - 🌍 Based in **Montreal, QC**
-a
+
 ---
 
 ### 🛠 Tech Stack
@@ -106,24 +106,5 @@ a
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=safwan-islam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=safwan-islam&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safwan-islam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=safwan-islam&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=safwan-islam&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" />
 </p>
