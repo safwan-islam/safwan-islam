@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/safwan-islam"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://linkedin.com/in/safwan-ahmed-islam"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:safwanahmed.islam@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>&nbsp;
   <a href="https://github.com/safwan-islam"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
 </p>
