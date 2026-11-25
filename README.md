@@ -1,89 +1,114 @@
 
-<p align="center">
+<div align="center">
+
+  <h1>Safwan-Ahmed Islam</h1>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey+%F0%9F%91%8B%2C+I'm+Safwan-Ahmed+Islam;Computer+Science+%40+Concordia+University;Former+Software+Engineer+Intern+%40+UKG;Software+Engineering+%26+Applied+ML" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Science+%40+Concordia+University;Former+Software+Engineer+Intern+%40+UKG;Backend+%26+Full-Stack+Engineering;Applied+Machine+Learning" alt="Typing SVG"/>
   </a>
-</p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/safwan-ahmed-islam"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>&nbsp;
-  <a href="mailto:safwanahmed.islam@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>&nbsp;
-  <a href="https://github.com/safwan-islam"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
-</p>
+  <p>
+    <a href="https://linkedin.com/in/safwan-ahmed-islam">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:safwanahmed.islam@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://github.com/safwan-islam">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
 
----
-
-### 👨‍💻 About Me
-
-I'm a Computer Science student at **Concordia University** and a former **Software Engineer Intern at UKG**. I'm interested in backend engineering, applied machine learning, and building scalable software systems.
-
-- 🎓 Bachelor of Computer Science — Expected December 2027
-- 💻 Former Software Engineer Intern @ UKG
-- 🧠 Exploring Applied Machine Learning & Recommendation Systems
-- 📍 Montreal, Quebec, Canada
+</div>
 
 ---
 
-### 💼 Experience
+## About Me
 
-**Software Engineer Intern — UKG Inc.**  
-May 2026 – August 2026
+Computer Science student at **Concordia University** and former **Software Engineer Intern at UKG**, with interests in software engineering, backend development, distributed systems, and applied machine learning.
 
-Developed automated integration tests for enterprise workforce forecasting microservices, validated REST APIs and PostgreSQL data integrity, and investigated backend issues in Kubernetes-based environments.
+- **Education:** Bachelor of Computer Science, Concordia University
+- **Expected Graduation:** December 2027
+- **Experience:** Former Software Engineer Intern at UKG
+- **Interests:** Applied Machine Learning, Backend Engineering & Full-Stack Development
+- **Location:** Montreal, Quebec, Canada
+
+---
+
+## Professional Experience
+
+### Software Engineer Intern | UKG Inc.
+
+**May 2026 – August 2026 | Montreal, QC**
+
+- Developed automated integration test suites for workforce forecasting microservices using Java, TestNG, and REST APIs.
+- Built reusable automation components following the Page Object Model and SOLID principles.
+- Validated REST API endpoints and PostgreSQL data integrity in Kubernetes environments.
+- Investigated backend failures through logs, API responses, and microservice interactions.
+- Collaborated with senior engineers using Git, Jenkins, Jira, and Agile development practices.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,kubernetes,jenkins,gradle,git"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,kubernetes,jenkins,gradle,git&theme=dark" alt="UKG Technologies"/>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## Technical Skills
 
-<p align="center"><b>Programming Languages</b></p>
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,ruby,c,cpp,cs,js,ts,kotlin,bash,powershell&perline=11"/>
-</p>
+### Programming Languages
 
-<p align="center"><b>Machine Learning & Data</b></p>
+<img src="https://skillicons.dev/icons?i=python,java,ruby,c,cpp,cs,js,ts,kotlin,bash,powershell&theme=dark&perline=11" alt="Programming Languages"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn"/>
-</p>
+### Machine Learning & Data
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="Machine Learning"/>
+
+<p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
 </p>
 
-<p align="center"><b>Frameworks & Libraries</b></p>
+### Backend & Frameworks
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,django,flask,dotnet,react,angular,nodejs,nestjs,express&perline=10"/>
-</p>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,django,flask,dotnet,nodejs,nestjs,express&theme=dark" alt="Backend Frameworks"/>
 
-<p align="center"><b>Databases</b></p>
+### Frontend Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap,tailwind&theme=dark" alt="Frontend Development"/>
 
-<p align="center">
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase&theme=dark" alt="Databases"/>
+
+<p>
   <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logoColor=white"/>
 </p>
 
-<p align="center"><b>DevOps & Developer Tools</b></p>
+### DevOps & Developer Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,jenkins,gradle,githubactions,vscode&perline=9"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,gradle,git,github,gitlab,githubactions,linux,vscode&theme=dark&perline=10" alt="DevOps Tools"/>
+
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Microservices-2496ED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/TestNG-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/>
 </p>
+
+</div>
 
 ---
 
-### 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
   <tr>
@@ -93,7 +118,7 @@ Developed automated integration tests for enterprise workforce forecasting micro
         <img src="https://img.shields.io/badge/IN_DEVELOPMENT-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </p>
       <p align="center">
-        Hybrid machine learning recommendation system combining neural collaborative filtering and content-based filtering. Designed to deliver personalized product recommendations with model evaluation, REST API inference, and containerized deployment.
+        Hybrid machine learning recommendation system in development, combining neural collaborative filtering and content-based filtering for personalized product recommendations, model evaluation, and REST API inference.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -110,7 +135,7 @@ Developed automated integration tests for enterprise workforce forecasting micro
         </a>
       </p>
       <p align="center">
-        Three-layer banking system supporting deposits, withdrawals, transfers, and transaction history. Implements DAO and Repository patterns with Oracle SQL persistence and a Java Swing interface.
+        Three-layer banking system supporting deposits, withdrawals, transfers, and transaction history. Implements DAO and Repository design patterns, Oracle SQL persistence, and an interactive Java Swing interface.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -129,7 +154,7 @@ Developed automated integration tests for enterprise workforce forecasting micro
         </a>
       </p>
       <p align="center">
-        Full-stack veterinary management platform featuring automated database workflows, role-based authorization, appointment scheduling, and medical record management with relational data integrity.
+        Full-stack veterinary management platform featuring automated database workflows, role-based authorization, appointment scheduling, and medical record management using Entity Framework Core and SQL Server.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
@@ -146,7 +171,7 @@ Developed automated integration tests for enterprise workforce forecasting micro
         </a>
       </p>
       <p align="center">
-        Full-stack task management application featuring role-based authentication, JWT-secured REST APIs, and CRUD operations. Integrates MongoDB persistence with a responsive Django frontend.
+        Full-stack task management application featuring role-based authentication, JWT-secured REST APIs, and complete CRUD operations. Integrates MongoDB persistence with a responsive Django frontend.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -160,12 +185,20 @@ Developed automated integration tests for enterprise workforce forecasting micro
 
 ---
 
-<p align="center">
-  <b>Open to Summer 2027 Software Engineering & Applied Machine Learning Internships</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/safwan-ahmed-islam">LinkedIn</a> •
-  <a href="mailto:safwanahmed.islam@gmail.com">Email</a> •
-  <a href="https://github.com/safwan-islam?tab=repositories">Repositories</a>
-</p>
+  <h3>Let's Connect</h3>
+
+  <p>
+    Open to Summer 2027 Software Engineering and Applied Machine Learning internships.
+  </p>
+
+  <a href="https://linkedin.com/in/safwan-ahmed-islam">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:safwanahmed.islam@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+</div>
